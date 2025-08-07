@@ -1,5 +1,5 @@
 context:
-  version: "1.5.14"
+  version: "1.5.15"
 
 package:
   name: sails
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/sails/-/sails-${{ version }}.tgz
-  sha256: 610a3fd6c47c8b8c68ee79e1ab3680a4d6cd7dcf90a39ac84be59afe0fc26cbd
+  sha256: 8339a896b14ad9a14fdbe0efdae1749f86462ec7bd3846ee3181fe593115d2a7
 
 build:
   number: 0
